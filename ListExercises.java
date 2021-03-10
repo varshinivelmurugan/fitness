@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.yoga.Adapter.RecyclerViewAdapter;
 import com.example.yoga.Model.Exercise;
 import java.util.ArrayList;
-import java.util.List;
+
 
 public class ListExercises extends AppCompatActivity {
 
